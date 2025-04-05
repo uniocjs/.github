@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./logo.svg" width="300" />
+<img src="../logo.svg" width="300" />
 
 # unioc
 
